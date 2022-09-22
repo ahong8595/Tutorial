@@ -13,8 +13,7 @@ class Header extends React.Component {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
-                        <Nav.Link className="link" href="/projects">Projects</Nav.Link>
-                        <Nav.Link className="link" href="/resume">Résume</Nav.Link>
+                        <Nav.Link className="link" href="https://andrew-hong.herokuapp.com/resume">Résume</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

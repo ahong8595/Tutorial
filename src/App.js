@@ -9,7 +9,8 @@ function App() {
     <Header></Header>
     <br />
     <Container>
-      <h1>Hello World</h1>
+      <h1>Andrew Hong's Website</h1>
+      <p>Hi there! Welcome to my personal portfolio. Click on the top-right link for my resume!</p>
     </Container>
   </div>
 }
